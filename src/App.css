@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+.main {
+}
+.text_events {
+  margin-top: 10px;
+}
+.main_story {
+  height: 450px;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 10px;
+}
+.main_story__top {
+  margin-top: 20px;
+}
+
+.main_video {
+  max-width: 1300px;
+  margin: auto;
+}
+.main_video h1 {
+  margin-top: 20px;
+}
+video.w-full.max-w-lg.h-auto.rounded-lg.shadow-lg.flex.justify-center.items-center {
+  margin: auto;
+}

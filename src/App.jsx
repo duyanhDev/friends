@@ -717,6 +717,312 @@ function App() {
             </button>
           </div>
         </div>
+        <div
+          className="section_children  bg-slate-900 text-white text-center m-auto"
+          data-aos="zoom-in"
+        >
+          <div className="text-center m-auto  flex justify-center mt-2.5">
+            <img
+              className="w-36 h-36 rounded-full text-center object-cover"
+              src="https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-1/476044108_1775774783215155_5585907422360186520_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ROM6clnhaBgQ7kNvgGpopQw&_nc_oc=Adi3O-SyAe_TQWdpwaZMCtx834_vBoMV4X1Ep0nyB5uzPzHsFfQW5rsNTEHlztkB0Pk&_nc_zt=24&_nc_ht=scontent.fdad1-3.fna&_nc_gid=ArM5l0MSdPYD0qBY9oRCdNa&oh=00_AYCsORyYwGXN96IRo0TSSut92Iy82YDadnW5LDOQDg_NWA&oe=67ABD41A"
+              alt="Thắm"
+            />
+          </div>
+          <div className="p-1">
+            <h1 className="text-3xl font-bold bg-gradient-to-r from-pink-500 via-purple-400 to-cyan-500 text-transparent bg-clip-text mt-2">
+              Đinh Thị Hồng Thắm
+            </h1>
+            <p className="text-center text-gray-400">@tham.19</p>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-cyan-500/20 via-cyan-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Briefcase />
+            <span className="ml-1.5 text-gray-200 font-medium">Luật Sư </span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-pink-500/20 via-pink-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Heart />
+            <span className="ml-1.5 text-gray-200 font-medium">Hẹn hò</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-purple-500/20 via-purple-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <MapPin />
+            <span className="ml-1.5 text-gray-200 font-medium">Đắk Nông</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-yellow-500/20 via-yellow-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Star />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              Music, du lịch , cafe , xem phim
+            </span>
+          </div>
+          <div className="h-12 m-1.5  flex justify-center items-center gap-1">
+            <a
+              href="https://www.facebook.com/profile.php?id=100023479519370"
+              class="bg-gradient-to-r from-blue-600 to-blue-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-facebook"
+              >
+                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+              </svg>
+            </a>
+            <button class="bg-gradient-to-r from-pink-600 to-purple-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-instagram"
+              >
+                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div
+          className="section_children  bg-slate-900 text-white text-center m-auto"
+          data-aos="zoom-in"
+        >
+          <div className="text-center m-auto  flex justify-center mt-2.5">
+            <img
+              className="w-36 h-36 rounded-full text-center object-cover"
+              src="https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-1/308857486_807057623674514_5552546983705596243_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e99d92&_nc_ohc=rWmtaDPmrQUQ7kNvgE4bbGI&_nc_oc=Adjd3WBVDd0HLhfv4RLxprvDarOoYbTNmyjIbtwB2pOHNdeU7NjvtNLa3JRDlmgrT0Y&_nc_zt=24&_nc_ht=scontent.fdad1-1.fna&_nc_gid=AbtbqyShogN71cyiRn4ozxO&oh=00_AYBj01mq7j5zQ9j7WGaQVfRhz661kGC2AJdzzpnOWe9lkg&oe=67ABCF7F"
+              alt="tam"
+            />
+          </div>
+          <div className="p-1">
+            <h1 className="text-3xl font-bold bg-gradient-to-r from-pink-500 via-purple-400 to-cyan-500 text-transparent bg-clip-text mt-2">
+              Mai Thị Minh Tâm
+            </h1>
+            <p className="text-center text-gray-400">@tam.19</p>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-cyan-500/20 via-cyan-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Briefcase />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              Giáo dục tiểu học
+            </span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-pink-500/20 via-pink-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Heart />
+            <span className="ml-1.5 text-gray-200 font-medium">Hẹn hò</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-purple-500/20 via-purple-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <MapPin />
+            <span className="ml-1.5 text-gray-200 font-medium">Đắk Nông</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-yellow-500/20 via-yellow-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Star />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              Music, du lịch , cafe , xem phim
+            </span>
+          </div>
+          <div className="h-12 m-1.5  flex justify-center items-center gap-1">
+            <a
+              href="https://www.facebook.com/profile.php?id=100031108503318"
+              class="bg-gradient-to-r from-blue-600 to-blue-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-facebook"
+              >
+                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+              </svg>
+            </a>
+            <button class="bg-gradient-to-r from-pink-600 to-purple-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-instagram"
+              >
+                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div
+          className="section_children  bg-slate-900 text-white text-center m-auto"
+          data-aos="zoom-in"
+        >
+          <div className="text-center m-auto  flex justify-center mt-2.5">
+            <img
+              className="w-36 h-36 rounded-full text-center object-cover"
+              src="https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-1/351466702_1913937095642756_9063937292105686399_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_ohc=DgrcdPAcrUgQ7kNvgGDvXLa&_nc_oc=AdjO4ntk7mtIFITZoPTD76ixYWwF3VBBZquljafYcmqe8DxjnxoA6d3iPJJlteBQbIY&_nc_zt=24&_nc_ht=scontent.fdad1-4.fna&_nc_gid=A6MJaMJXAt5dvhp4yih1pj6&oh=00_AYBOYZHOGl6dU5PoKTDq0OCd5oJowKoMKcQsyDEZoO40uw&oe=67ABABCF"
+              alt="tam"
+            />
+          </div>
+          <div className="p-1">
+            <h1 className="text-3xl font-bold bg-gradient-to-r from-pink-500 via-purple-400 to-cyan-500 text-transparent bg-clip-text mt-2">
+              Nguyễn Minh Nhựt
+            </h1>
+            <p className="text-center text-gray-400">@nhut.19</p>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-cyan-500/20 via-cyan-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Briefcase />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              IT Developer
+            </span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-pink-500/20 via-pink-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Heart />
+            <span className="ml-1.5 text-gray-200 font-medium">Độc thân</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-purple-500/20 via-purple-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <MapPin />
+            <span className="ml-1.5 text-gray-200 font-medium">Bình Dương</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-yellow-500/20 via-yellow-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Star />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              Music, du lịch , cafe , xem phim
+            </span>
+          </div>
+          <div className="h-12 m-1.5  flex justify-center items-center gap-1">
+            <a
+              href="https://www.facebook.com/profile.php?id=100031108503318"
+              class="bg-gradient-to-r from-blue-600 to-blue-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-facebook"
+              >
+                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+              </svg>
+            </a>
+            <button class="bg-gradient-to-r from-pink-600 to-purple-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-instagram"
+              >
+                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div
+          className="section_children  bg-slate-900 text-white text-center m-auto"
+          data-aos="zoom-in"
+        >
+          <div className="text-center m-auto  flex justify-center mt-2.5">
+            <img
+              className="w-36 h-36 rounded-full text-center object-cover"
+              src="https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-1/472903759_2377002389349659_6421545169918745142_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_ohc=YoOsCEv2T7wQ7kNvgGddJ_u&_nc_oc=Adgxt-1_NXFXLfh7H0dBOuvo0HcHdBwoTntD95FhzTyBG1nXEM30z7OkQc5g_cO9g4c&_nc_zt=24&_nc_ht=scontent.fdad2-1.fna&_nc_gid=AGAgaGJP3qbrc8KBLyXQZ__&oh=00_AYDFGG8gKAv6NneRRttFtJnqsKI9Geu2LkPf4EGnFcUUuw&oe=67ABB4C1"
+              alt="tam"
+            />
+          </div>
+          <div className="p-1">
+            <h1 className="text-3xl font-bold bg-gradient-to-r from-pink-500 via-purple-400 to-cyan-500 text-transparent bg-clip-text mt-2">
+              Huỳnh Hùng Mạnh
+            </h1>
+            <p className="text-center text-gray-400">@manh.19</p>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-cyan-500/20 via-cyan-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Briefcase />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              IT Developer
+            </span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-pink-500/20 via-pink-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Heart />
+            <span className="ml-1.5 text-gray-200 font-medium">Độc thân</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-purple-500/20 via-purple-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <MapPin />
+            <span className="ml-1.5 text-gray-200 font-medium">Bình Dương</span>
+          </div>
+          <div className="h-12 m-1.5 bg-gradient-to-r from-yellow-500/20 via-yellow-500/10 to-transparent p-4 rounded-2xl backdrop-blur-lg border border-white/10 flex  items-center">
+            <Star />
+            <span className="ml-1.5 text-gray-200 font-medium">
+              Music, du lịch , cafe , xem phim
+            </span>
+          </div>
+          <div className="h-12 m-1.5  flex justify-center items-center gap-1">
+            <a
+              href="https://www.facebook.com/profile.php?id=100031108503318"
+              class="bg-gradient-to-r from-blue-600 to-blue-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-facebook"
+              >
+                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+              </svg>
+            </a>
+            <button class="bg-gradient-to-r from-pink-600 to-purple-400 p-3 rounded-xl hover:scale-110 transition-transform duration-300 text-white shadow-lg">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-instagram"
+              >
+                <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line>
+              </svg>
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );

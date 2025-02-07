@@ -1,3 +1,12 @@
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Hentaigana:wght@200..900&display=swap");
+@import "tailwindcss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 html,
 body {
   height: 100%;
@@ -32,4 +41,13 @@ body {
 }
 video.w-full.max-w-lg.h-auto.rounded-lg.shadow-lg.flex.justify-center.items-center {
   margin: auto;
+}
+.section {
+  max-width: 1500px;
+  height: 500px;
+}
+.section_children {
+  width: 350px;
+  height: 100%;
+  border-radius: 12px;
 }
